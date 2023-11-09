@@ -34,7 +34,7 @@ now we run the script
 
 ![image](https://github.com/Muh4nnad/UJ-WRITEUP/assets/150369756/10098b59-a453-45b3-a96d-dabf0d85f4d2)
 
-we got some output from some photos so now we will open all the txt files that we got from the photos using command : cat *.txt (*.txt means any .txt file in the folder)
+we got some output from some photos so now we will open all the txt files that we got from the photos
 
 ![image](https://github.com/Muh4nnad/UJ-WRITEUP/assets/150369756/9a9ee054-7f68-495f-98f8-de83cfc4eff9)
 
