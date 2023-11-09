@@ -13,5 +13,14 @@ after we search we found out this https://www.socinvestigation.com/pecmd-windows
 
 
 
+![image](https://github.com/Muh4nnad/UJ-WRITEUP/assets/150369756/c40c1208-bc6a-4fe6-a165-14f02a5f68b4)
 
+we used this Command in cmd
 
+ PECmd.exe -f CMD.pf 
+
+![image](https://github.com/Muh4nnad/UJ-WRITEUP/assets/150369756/720499e8-ad63-4922-8a9b-eea1570434ee)
+
+and from the output we can see the flag 
+
+thats it..
